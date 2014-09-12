@@ -10,7 +10,7 @@
 
 	<groupId>group</groupId>
 	<artifactId>project1</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.9-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	
 
